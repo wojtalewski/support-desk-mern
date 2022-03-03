@@ -10,6 +10,6 @@ CSS
 
 MongoDB / Mongoose
 
-# View
+Visit Website:
 
 [Support Desk App - Live](https://wojtalewicz-support-desk.herokuapp.com/)
